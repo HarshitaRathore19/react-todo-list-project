@@ -16,7 +16,7 @@ function App() {
           <div className="col-4 bg-primary">Hello</div>
           <TodoList></TodoList>
           <TodoInput></TodoInput>
-
+           <h1>Hello Welcome to reactjs</h1>
         </div>
 
       </div>
